@@ -29,11 +29,11 @@ The program should allow students to predict their progression outcome at the en
 > 
 > Total incorrect.
 > 
-> Please enter your credits at pass: 100
+> Please enter your credits at pass: **100**
 > 
-> Please enter your credit at defer: 20
+> Please enter your credit at defer: **20**
 > 
-> Please enter your credit at fail: 0
+> Please enter your credit at fail: **0**
 > 
 > Progress (module trailer)
 > 
@@ -52,63 +52,63 @@ The program should allow students to predict their progression outcome at the en
 + Example of a program run and input (in bold). Note: program should exit on ‘q’ to quit and produce the histogram.
 
 Example Output:
-> Enter your total PASS credits: 120
+> Enter your total PASS credits: **120**
 > 
-> Enter your total DEFER credits: 0
+> Enter your total DEFER credits: **0**
 > 
-> Enter your total FAIL credits: 0
+> Enter your total FAIL credits: **0**
 > 
 > Progress
 >
 > 
 > Would you like to enter another set of data?
 > 
-> Enter 'y' for yes or 'q' to quit and view results: y
+> Enter 'y' for yes or 'q' to quit and view results: **y**
 > 
-> Enter your total PASS credits: 100
+> Enter your total PASS credits: **100**
 > 
-> Enter your total DEFER credits: 0
+> Enter your total DEFER credits: **0**
 > 
-> Enter your total FAIL credits: 20
+> Enter your total FAIL credits: **20**
 > 
 > Progress (module trailer)
 > 
 >
 > Would you like to enter another set of data?
 > 
-> Enter 'y' for yes or 'q' to quit and view results: y
+> Enter 'y' for yes or 'q' to quit and view results: **y**
 > 
-> Enter your total PASS credits: 80
+> Enter your total PASS credits: **80**
 > 
-> Enter your total DEFER credits: 20
+> Enter your total DEFER credits: **20**
 > 
-> Enter your total FAIL credits: 20
+> Enter your total FAIL credits: **20**
 > 
 > Module
 > 
 >
 > Would you like to enter another set of data?
 > 
-> Enter 'y' for yes or 'q' to quit and view results: y
+> Enter 'y' for yes or 'q' to quit and view results: **y**
 > 
-> Enter your total PASS credits: 60
+> Enter your total PASS credits: **60**
 > 
-> Enter your total DEFER credits: 0
+> Enter your total DEFER credits: **0**
 > 
-> Enter your total FAIL credits: 60
+> Enter your total FAIL credits: **60**
 > 
 > Module retriever
 > 
 >
 > Would you like to enter another set of data?
 > 
-> Enter 'y' for yes or 'q' to quit and view results: y
+> Enter 'y' for yes or 'q' to quit and view results: **y**
 > 
-> Enter your total PASS credits: 40
+> Enter your total PASS credits: **40**
 > 
-> Enter your total DEFER credits: 0
+> Enter your total DEFER credits: **0**
 > 
-> Enter your total FAIL credits: 80
+> Enter your total FAIL credits: **80**
 > 
 > Exclude
 > 
